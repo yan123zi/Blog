@@ -1,0 +1,84 @@
+Start building sites … 
+hugo v0.86.0-41C6C52E+extended linux/amd64 BuildDate=2021-07-21T09:53:14Z VendorInfo=gohugoio
+WARN 2021/08/30 14:41:51 Search page not found. Create a page with layout: search.
+WARN 2021/08/30 14:41:51 Archives page not found. Create a page with layout: archives.
+
+                   | EN  
+-------------------+-----
+  Pages            | 10  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  0  
+  Processed images |  1  
+  Aliases          |  4  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 103 ms
+Watching for changes in /root/myBlog/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /root/myBlog/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+Start building sites … 
+hugo v0.86.0-41C6C52E+extended linux/amd64 BuildDate=2021-07-21T09:53:14Z VendorInfo=gohugoio
+WARN 2021/08/30 14:43:35 Search page not found. Create a page with layout: search.
+WARN 2021/08/30 14:43:35 Archives page not found. Create a page with layout: archives.
+
+                   | EN  
+-------------------+-----
+  Pages            | 10  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  0  
+  Processed images |  1  
+  Aliases          |  4  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 83 ms
+Watching for changes in /root/myBlog/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /root/myBlog/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+Start building sites … 
+hugo v0.86.0-41C6C52E+extended linux/amd64 BuildDate=2021-07-21T09:53:14Z VendorInfo=gohugoio
+WARN 2021/08/30 14:43:56 Search page not found. Create a page with layout: search.
+WARN 2021/08/30 14:43:56 Archives page not found. Create a page with layout: archives.
+
+                   | EN  
+-------------------+-----
+  Pages            | 10  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  0  
+  Processed images |  1  
+  Aliases          |  4  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 81 ms
+Watching for changes in /root/myBlog/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /root/myBlog/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change of config file detected, rebuilding site.
+2021-08-30 14:53:08.426 +0800
+WARN 2021/08/30 14:53:08 Search page not found. Create a page with layout: search.
+WARN 2021/08/30 14:53:08 Archives page not found. Create a page with layout: archives.
+Rebuilt in 105 ms
+
+Change of config file detected, rebuilding site.
+2021-08-30 14:54:43.925 +0800
+WARN 2021/08/30 14:54:43 Search page not found. Create a page with layout: search.
+WARN 2021/08/30 14:54:43 Archives page not found. Create a page with layout: archives.
+Rebuilt in 101 ms

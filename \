@@ -1,0 +1,3 @@
+# baseURL = 'ht1.117.74.177:1313/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
